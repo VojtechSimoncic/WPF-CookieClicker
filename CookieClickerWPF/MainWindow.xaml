@@ -34,7 +34,7 @@
         <Style x:Key="buyMenuTxt" TargetType="TextBlock">
             <Setter Property="FontSize" Value="35"/>
             <Setter Property="Height" Value="45"/>
-            <Setter Property="Foreground" Value="black"/>
+            <Setter Property="Foreground" Value="White"/>
             <Setter Property="HorizontalAlignment" Value="Right"/>
             <Setter Property="Grid.Row" Value="1"/>
             <Setter Property="VerticalAlignment" Value="Top"/>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\VisualStudio\CookieClickerWPF\CookieClickerWPF\obj\Debug\net6.0-windows\
+C:\Users\vojte\source\repos\WPF-CookieClicker\CookieClickerWPF\obj\Debug\net6.0-windows\
 CookieClickerWPF
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\VisualStudio\CookieClickerWPF\CookieClickerWPF\App.xaml
+C:\Users\vojte\source\repos\WPF-CookieClicker\CookieClickerWPF\App.xaml
 11407045341
 
 51576593945
 194237474483
 MainWindow.xaml;
 
-True
+False
 

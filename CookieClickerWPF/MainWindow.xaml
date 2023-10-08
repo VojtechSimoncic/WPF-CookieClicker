@@ -9,7 +9,8 @@
         WindowStyle="None"
         Background="Transparent"
         AllowsTransparency="True"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        Icon="/Assets/cookie.ico">
 
     <Window.Resources>
         <Style TargetType="Button">
@@ -78,7 +79,7 @@
         </TextBlock>
         
         <!-- Column: 1 Row: 1 -->
-        
+
         <Button x:Name="addCookie"
                 Click="AddCookie"
                 Grid.Column="1"
@@ -87,10 +88,7 @@
                 Width="650"
                 Background="Transparent"
                 BorderBrush="Transparent">
-            
-            <ContentControl>
-                <Image Source="/Assets/cookie.png"/>
-            </ContentControl>            
+            <Image Source="Assets/cookie.png"/>          
         </Button>
         
         <!-- Column: 2 Row: 0 -->

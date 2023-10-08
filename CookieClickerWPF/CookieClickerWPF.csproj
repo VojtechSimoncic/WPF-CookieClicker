@@ -9,10 +9,14 @@
 
   <ItemGroup>
     <None Remove="Assets\background.jpg" />
+    <None Remove="Assets\cookie.ico" />
+    <None Remove="Assets\cookie.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Assets\background.jpg" />
+    <Resource Include="Assets\cookie.ico" />
+    <Resource Include="Assets\cookie.png" />
   </ItemGroup>
 
 </Project>

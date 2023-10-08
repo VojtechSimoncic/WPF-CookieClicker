@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\CookieClickerWPF\\CookieClickerWPF\\CookieClickerWPF.csproj",
+      "projectUniqueName": "C:\\Users\\vojte\\source\\repos\\WPF-CookieClicker\\CookieClickerWPF\\CookieClickerWPF.csproj",
       "projectName": "CookieClickerWPF",
-      "projectPath": "D:\\VisualStudio\\CookieClickerWPF\\CookieClickerWPF\\CookieClickerWPF.csproj",
+      "projectPath": "C:\\Users\\vojte\\source\\repos\\WPF-CookieClicker\\CookieClickerWPF\\CookieClickerWPF.csproj",
       "packagesPath": "C:\\Users\\vojte\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\CookieClickerWPF\\CookieClickerWPF\\obj\\",
+      "outputPath": "C:\\Users\\vojte\\source\\repos\\WPF-CookieClicker\\CookieClickerWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
